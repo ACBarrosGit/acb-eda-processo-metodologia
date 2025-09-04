@@ -104,3 +104,11 @@ Com todos os testes e análises feitos, essa é a fase de organização e sínte
 - **Destacar variáveis mais impactantes** no KPI central.
 - **Identificar gaps**: dados insuficientes, variáveis relevantes que faltam ou precisam de melhor qualidade.
 - **Gerar recomendações práticas** que orientem próximos passos do projeto ou decisões estratégicas.
+
+# Licença
+
+- Código e exemplos → [MIT License](LICENSE)  
+- Conteúdo e textos → [CC BY 4.0](LICENSE-CC-BY.md)  
+
+Você pode usar, adaptar e compartilhar este material livremente, **desde que dê o devido crédito à autora: Carol Barros**.
+
